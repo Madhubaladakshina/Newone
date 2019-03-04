@@ -24,7 +24,7 @@ public class LoginCredential {
 
 	public boolean checkLogin() {
 		// TODO Auto-generated method stub
-		if(username.equals("NIIT") && password.equals("12345"))
+		if(username.equals("madhu") && password.equals("madhu127"))
 			return true;
 		else
 			return false;
